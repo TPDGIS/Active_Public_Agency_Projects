@@ -1,0 +1,24 @@
+{
+  "name": "create_map",
+  "label": "Create Map",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.18.0",
+  "author": "TPD",
+  "description": "Client-side map layout and export widget for composing a printable map from a linked Map widget.",
+  "copyright": "",
+  "license": "",
+  "properties": {
+    "useMapWidget": true
+  },
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "defaultSize": {
+    "width": 360,
+    "height": 520
+  },
+  "translatedLocales": [
+    "en"
+  ]
+}

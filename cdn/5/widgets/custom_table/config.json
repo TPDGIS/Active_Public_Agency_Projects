@@ -1,0 +1,17 @@
+{
+  "useMapWidgetIds": [],
+  "useDataSources": [],
+  "columns": [],
+  "displayFields": [],
+  "rowDensity": "normal",
+  "enableTabs": false,
+  "tabsField": "",
+  "tabValueOrder": [],
+  "tabSorts": {},
+  "allTabLabel": "All",
+  "enableRowColoring": true,
+  "maxRecords": 2000,
+  "enableTableEditing": false,
+  "enableLocationEditing": false,
+  "enableRecordDeleting": false
+}

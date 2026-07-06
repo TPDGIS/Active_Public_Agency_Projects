@@ -1,0 +1,24 @@
+{
+  "name": "custom_table",
+  "label": "Custom Table",
+  "type": "widget",
+  "version": "1.0.0",
+  "exbVersion": "1.18.0",
+  "author": "TPD",
+  "description": "Attribute table for a hosted feature layer on a linked map. Supports tabs, search, sort, row coloring, and optional parent/Work Order nesting with map sketch add.",
+  "copyright": "",
+  "license": "",
+  "properties": {
+    "useMapWidget": true
+  },
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "defaultSize": {
+    "width": 760,
+    "height": 480
+  },
+  "translatedLocales": [
+    "en"
+  ]
+}

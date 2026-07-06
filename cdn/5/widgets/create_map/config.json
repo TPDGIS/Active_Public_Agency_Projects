@@ -1,0 +1,19 @@
+{
+  "layoutTitle": "Project Map",
+  "subtitle": "",
+  "logoUrl": "",
+  "logoDataUrl": "",
+  "pageSize": "letter",
+  "orientation": "landscape",
+  "showLegend": true,
+  "legendLayerIds": [],
+  "showInsetMap": false,
+  "insetMapTitle": "Reference Map",
+  "insetWebMapItemId": "",
+  "insetExtentScale": 1,
+  "insetLocatorWidthMiles": 1,
+  "insetLocatorHeightMiles": 1,
+  "insetExtentOutlineColor": "#ff0000",
+  "insetExtentOutlineWidth": 2,
+  "insetExtentFillOpacity": 0.08
+}
